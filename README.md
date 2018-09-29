@@ -13,4 +13,3 @@ J2 - 20 pin 0.1"/2.54mm header
 J3 - 5 pin 0.1"/2.54mm header - JTAG connector
 SW1 - K2-1107ST switch (from LCSC.com)
 U1 - ATSAML21Gxx MCU in LQFP48 package
-
