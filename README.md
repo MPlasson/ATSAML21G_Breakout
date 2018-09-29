@@ -1,6 +1,9 @@
 # ATSAML21G_Breakout
 Breakout board for ATSAML21Gxx MCU
 
+Now available on PCBS.io (sharing link): 
+https://pcbs.io/share/rG9PZ
+
 Bill of materials (BOM):
 
 |  Designator  | Value |  Package description |
