@@ -15,3 +15,7 @@ Bill of materials (BOM):
 |J3 | 5 pins | 0.1"/2.54mm header - JTAG connector |
 |SW1 | K2-1107ST | Switch from LCSC.com |
 |U1 | ATSAML21Gxx | MCU in LQFP48 package |
+
+Here is the board once assembled:
+
+<img width=300 src="Assembled_Board.jpg" alt="drawing"/>
